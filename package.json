@@ -1,6 +1,6 @@
 {
   "name": "semo-plugin-chalk",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Semo plugin to provide chalk feature in cli.",
   "keywords": [
     "cli",
