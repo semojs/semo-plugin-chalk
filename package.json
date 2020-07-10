@@ -6,6 +6,10 @@
     "cli",
     "chalk"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semojs/semo-plugin-chalk"
+  },
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "license": "MIT",
